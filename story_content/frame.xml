@@ -1419,7 +1419,7 @@
       <slidetext slideid="5obfQIbbLi9.61ZXfmPAo5K" slidebank="false" type="slide">%project.slidenumber% of %project.totalslides% part of the order has been received  %project.slidenumber% of %project.totalslides%</slidetext>
       <slidetext slideid="5obfQIbbLi9.6KOOul57tPW" slidebank="false" type="slide">%project.slidenumber% of %project.totalslides% part of the order has been received   %project.slidenumber% of %project.totalslides%</slidetext>
       <slidetext slideid="5obfQIbbLi9.5vUSloKWPmi" slidebank="false" type="slide">part of the order has been received  %project.slidenumber% of %project.totalslides% sstephen</slidetext>
-      <slidetext slideid="5obfQIbbLi9.6c9a0d6QU8j" slidebank="false" type="slide">  08 correcting a  line item receiving %project.slidenumber% of %project.totalslides%</slidetext>
+      <slidetext slideid="5obfQIbbLi9.6c9a0d6QU8j" slidebank="false" type="slide">  correcting a  line item receiving %project.slidenumber% of %project.totalslides%</slidetext>
       <slidetext slideid="5obfQIbbLi9.5uewWHkGwc1" slidebank="false" type="slide">part of the order has been received %project.slidenumber% of %project.totalslides%</slidetext>
       <slidetext slideid="5obfQIbbLi9.6bin4UJuYjZ" slidebank="false" type="slide">%project.slidenumber% of %project.totalslides%  sstephen</slidetext>
       <slidetext slideid="5obfQIbbLi9.6JPehIjGi2p" slidebank="false" type="slide">%project.slidenumber% of %project.totalslides%  adjusting the number of items </slidetext>
